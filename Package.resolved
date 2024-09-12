@@ -1,0 +1,15 @@
+{
+  "originHash" : "3e0b92c88becf03d90a19dece31943f530804d889387b8f76f60ac3c03fc0107",
+  "pins" : [
+    {
+      "identity" : "orbiverse",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Corbin-Bigler/orbiverse.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "1c423139d9ecb8b8a55bde85cd9a130584755232"
+      }
+    }
+  ],
+  "version" : 3
+}

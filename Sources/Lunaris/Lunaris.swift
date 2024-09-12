@@ -1,5 +1,6 @@
 import MetalKit
 import SwiftUI
+import Orbiverse
 
 public class Lunaris: NSObject, MTKViewDelegate {
     static let initialModelBufferSize = 1000
